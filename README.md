@@ -102,8 +102,7 @@ The Gold table feeds a Databricks SQL dashboard with:
 - **Average Price per Item by Loyalty Tier** — Bronze/Silver/Gold/Platinum
 - **Average Order Value by Gender**
 
-![Dashboard Overview](dashboard/page 1.png)
-![Dashboard Breakdown](dashboard/page 2.png)
+![Dashboard Overview](https://github.com/piyushpsinghh/retail-sales-analytics-databricks/blob/main/dashboard/Page%201.png)
 
 ---
 
